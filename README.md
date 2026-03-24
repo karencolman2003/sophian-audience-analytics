@@ -1,4 +1,4 @@
-# Newsroom Audience & Content Performance Analytics using WordPress + Jetpack
+# Sophian Audience & Content Performance Analytics using WordPress + Jetpack
 
 ## Business Context
 
