@@ -19,8 +19,8 @@ Student newsrooms often need actionable audience reporting without access to an 
 
 ## Key Findings
 
-- Top post: **The Ultimate List of Icks** (373,861 views)
-- Top author: **Gloria's Hymen** (373,861 views)
+- Top post: 373,861 views
+- Top author: 373,861 views
 - Top referrer group: **Search Engines** (408,765 visits)
 - Largest audience country: **United States** (330,391 views)
 
