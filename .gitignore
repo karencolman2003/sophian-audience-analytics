@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Raw/private data
+wordpress_posts_raw.json
+wordpress_posts_clean.csv
+data/raw/
+data/processed/
+outputs/tables/
